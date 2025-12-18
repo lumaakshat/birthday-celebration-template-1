@@ -13,11 +13,11 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Dear,Muskan
-Happy Birthday 🎉
+  const message = `Happy Birthay,Muskan🎉
 Wishing you lots of smiles, peace, and everything your heart truly deserves.
-And I’m sorry if I annoyed you earlier—I didn’t understand then that sometimes no reply is also a reply.
-Hope this year brings you only good vibes ✨
+And I’m sorry I annoyed you earlier—
+I didn’t understand then that sometimes no reply is also a reply.
+Hope this year brings you only good vibe✨
 — Akshat`;
 
   // Handle page transitions
