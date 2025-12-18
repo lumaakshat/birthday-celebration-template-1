@@ -105,7 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p>A Birthday message from Akshat💗</p>
+          <p>A Birthday message from Akshat</p>
         </section>
 
         <Countdown
