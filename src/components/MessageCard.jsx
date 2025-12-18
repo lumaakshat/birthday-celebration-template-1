@@ -13,19 +13,12 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
-
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+  const message = `Dear,Muskan
+Happy Birthday 🎉
+Wishing you lots of smiles, peace, and everything your heart truly deserves.
+And I’m sorry if I annoyed you earlier—I didn’t understand then that sometimes no reply is also a reply.
+Hope this year brings you only good vibes ✨
+— Akshat`;
 
   // Handle page transitions
   useEffect(() => {
